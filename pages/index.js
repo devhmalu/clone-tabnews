@@ -3,7 +3,7 @@ function Home() {
     <div>
       <h1>O motivo da minha dedicação, é você!</h1>
       <img
-        src="/motivacao.jpg"
+        src="https://github.com/devhmalu/clone-tabnews/blob/main/motivacao.jpg"
         alt="Motivo da dedicação"
         width="300"
       />
