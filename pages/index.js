@@ -1,4 +1,4 @@
-import Foto from "./img/motivacao.jpg";
+import Foto from "/workspaces/clone-tabnews/pages/img/motivacao.jpg";
 
 function Home() {
     return (
