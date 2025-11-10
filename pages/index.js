@@ -1,4 +1,4 @@
-import Foto from "./img/motivacao.jpg
+import Foto from "./img/motivacao.jpg"
 
 function Home() {
     return (
