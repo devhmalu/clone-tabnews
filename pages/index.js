@@ -1,9 +1,11 @@
+import Foto from "./img/motivacao.jpg
+
 function Home() {
     return (
     <div>
       <h1>O motivo da minha dedicação, é você!</h1>
       <img
-        src="https://github.com/devhmalu/clone-tabnews/blob/main/motivacao.jpg"
+        src={Foto}
         alt="Motivo da dedicação"
         width="300"
       />
